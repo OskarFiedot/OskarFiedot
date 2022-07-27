@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @OskarFiedot
-- 📚 I am a current student at the Gdansk University of Technology, where I study Telecommunications and try to take my first steps in the IT industry.
+- 📚 I am a current student at the Gdansk University of Technology, where I study Telecommunications.
+- :cloud: I took my first steps in the IT industry as Cloud Software Development Intern at Intel Corporation.
 - 👀 I like programming mainly in C# and Python and in these technologies I'm currently trying to develop, mainly in terms of backend programming. 
 Apart from that I am interested in cloud technologies, DevOps approach and cybersecurity. 
 In connection with the direction of my studies my interests also include telecommunication and computer networks. 
