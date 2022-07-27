@@ -7,8 +7,7 @@ In connection with the direction of my studies my interests also include telecom
 - ⚽ Apart from computer stuff, I'm also interested in Polish and American Hip-Hop, which I express by collecting analogue and vinyl records for many years. 
 Since childhood, I've also loved playing soccer and skiing, 
 which helps me keep a balance between being active and spending hours at the computer.
-- 🌱 I am currently trying to develop my knowledge and skills in cloud technologies and programming in languages such as Python and Go, while working for Intel.  
-During my studies I gain knowledge in the field of network technologies.
+- 🌱 I am currently trying to develop my knowledge and skills in cloud technologies and programming in languages such as Python and Go, while working for Intel. During my studies I gain knowledge in the field of network technologies.
 - 📫 The easiest way to find me and get in touch with me is through Linkedin or by e-mail.
   - Linkedin: www.linkedin.com/in/ofiedot
   - e-mail: oskar.fiedot@gmail.com
