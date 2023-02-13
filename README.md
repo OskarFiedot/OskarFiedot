@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @OskarFiedot
-- 📚 I am a current student at the Gdansk University of Technology, where I study Telecommunications.
+- 📚 I am an engineering graduate with a degree in Telecommunications and am currently continuing my studies with a master's degree in Computer Science.
 - :cloud: I took my first steps in the IT industry as Cloud Software Development Intern at Intel Corporation.
-- 👀 I like programming mainly in C# and Python and in these technologies I'm currently trying to develop, mainly in terms of backend programming. 
-Apart from that I am interested in cloud technologies, DevOps approach and cybersecurity. 
-In connection with the direction of my studies my interests also include telecommunication and computer networks. 
+- 🌱 I am mainly interested in cloud technologies, Linux operating systems, DevOps approaches, cyber security and programming in languages such as Python, Golang and C++. 
 - ⚽ Apart from computer stuff, I'm also interested in Polish and American Hip-Hop, which I express by collecting analogue and vinyl records for many years. 
 Since childhood, I've also loved playing soccer and skiing, 
 which helps me keep a balance between being active and spending hours at the computer.
-- 🌱 I am currently trying to develop my knowledge and skills in cloud technologies and programming in languages such as Python and Go, while working for Intel. During my studies I gain knowledge in the field of network technologies.
 - 📫 The easiest way to find me and get in touch with me is through Linkedin or by e-mail.
   - Linkedin: www.linkedin.com/in/ofiedot
   - e-mail: oskar.fiedot@gmail.com
